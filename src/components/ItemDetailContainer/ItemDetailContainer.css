@@ -1,0 +1,48 @@
+.productos {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.productos h4 {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.productos img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.productos p {
+    color: #555;
+    margin: 8px 0;
+    font-size: 1em;
+}
+
+/* Estilos para la categoría */
+.productos p:last-of-type {
+    font-style: italic;
+    font-size: 0.9em;
+    color: #777;
+}
+
+/* Estilos para la opción de compra */
+.productos .option {
+    display: inline-block;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.productos .option:hover {
+    text-decoration: underline;
+}
