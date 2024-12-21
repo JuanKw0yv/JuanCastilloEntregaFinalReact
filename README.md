@@ -2,10 +2,7 @@
 Francisco Gomez
 
 ### Github del proyecto
-[github.com/FranGomez19/PreEntrega1ReactGomezFrancisco](https://github.com/FranGomez19/PreEntrega1ReactGomezFrancisco)
-
-### Visualización del proyecto en Netlify
-[leafy-halva-446fc5.netlify](https://leafy-halva-446fc5.netlify.app/)
+[github.com/JuanKw0yv/JuanCastilloEntregaFinalReact](https://github.com/JuanKw0yv/JuanCastilloEntregaFinalReact.git)
 
 ## Descripción
 Ecommerce React-CoderHouse es una aplicación de ecommerce desarrollada como parte del curso de React en CoderHouse. La aplicación permite a los usuarios explorar productos, filtrarlos por categorías, agregar productos al carrito y finalizar una compra simulada.
@@ -22,11 +19,11 @@ Para instalar y ejecutar este proyecto localmente:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/FranGomez19/PreEntrega1ReactGomezFrancisco.git
+    git clone https://github.com/JuanKw0yv/JuanCastilloEntregaFinalReact.git
     ```
 2. Accede al directorio del proyecto:
     ```bash
-    cd PreEntrega1ReactGomezFrancisco
+    cd final2
     ```
 3. Instala las dependencias:
     ```bash
